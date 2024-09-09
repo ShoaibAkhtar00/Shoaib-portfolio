@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Shoaib-portfolio/static/css/main.051eab03.css",
+    "main.js": "/Shoaib-portfolio/static/js/main.99990832.js",
+    "static/media/bannerImg.png": "/Shoaib-portfolio/static/media/bannerImg.499280bc5d4fdb2def97.png",
+    "static/media/projectFive.png": "/Shoaib-portfolio/static/media/projectFive.aa3cd00efc2755548ea6.png",
+    "static/media/projectFour.png": "/Shoaib-portfolio/static/media/projectFour.0eac3ac0285654ba4d95.png",
+    "static/media/projectOne.png": "/Shoaib-portfolio/static/media/projectOne.7d4e6ea5f38797651aca.png",
+    "static/media/projectSix.png": "/Shoaib-portfolio/static/media/projectSix.849038a0fbc85fc1d5a5.png",
+    "static/media/contactImg.png": "/Shoaib-portfolio/static/media/contactImg.8ddfbfd11798f881db54.png",
+    "static/media/projectTwo.png": "/Shoaib-portfolio/static/media/projectTwo.897dc1112cb82896b1bd.png",
+    "static/media/testimonialOne.png": "/Shoaib-portfolio/static/media/testimonialOne.c4706b2d1cadcb9f4daf.png",
+    "static/media/testimonialTwo.png": "/Shoaib-portfolio/static/media/testimonialTwo.c6df2773c486964035d9.png",
+    "static/media/projectThree.png": "/Shoaib-portfolio/static/media/projectThree.ddc50b22d01457753ae2.png",
+    "index.html": "/Shoaib-portfolio/index.html",
+    "main.051eab03.css.map": "/Shoaib-portfolio/static/css/main.051eab03.css.map",
+    "main.99990832.js.map": "/Shoaib-portfolio/static/js/main.99990832.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.051eab03.css",
+    "static/js/main.99990832.js"
+  ]
+}
